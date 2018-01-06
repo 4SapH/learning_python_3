@@ -1,0 +1,11 @@
+# if you only have 1 version of python (python3?)
+pip install module_name
+
+C:/Python34/scripts/pip install matplotlib
+C:/Python34/scripts/pip install --upgrade matplotlib
+
+
+www.lfd.uci.edu/
+ download.whl
+ open command window
+ C:/Python34/Scripts/pip install <whl>

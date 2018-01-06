@@ -1,0 +1,11 @@
+# linux
+
+sudo apt-get install python-matplotlib
+
+
+# windows
+
+download .tar.gz
+extract
+shift+click folder -> open command window here
+setup.py install
